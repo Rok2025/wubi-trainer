@@ -21,3 +21,11 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Credentials and local runtime files
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.pyc
